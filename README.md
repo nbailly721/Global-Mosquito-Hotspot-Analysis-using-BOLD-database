@@ -77,6 +77,8 @@
 
 -Integrates BOLD species occurrence data with WorldClim climate data for global risk modeling.
 
+-All the graphs showing future projections only represent the hotspots for **January**. The same code structure can be used to produce visualizations for the rest of months.
+
 📌 Policy-Based Relevance
 
 -Supports global health planning by identifying current and emerging mosquito hotspots.
