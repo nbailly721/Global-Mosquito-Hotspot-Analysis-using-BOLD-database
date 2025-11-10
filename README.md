@@ -73,7 +73,7 @@
 
 📂 Files
 
--global_mosquito_hotspot_analysis.R – Complete R script covering data ingestion, cleaning, mapping, climate integration, regression, and hotspot prediction
+-global_mosquito_hotspot_analysis.R : Complete R script covering data ingestion, cleaning, mapping, climate integration, regression, and hotspot prediction
 
 🧠 Notes
 
