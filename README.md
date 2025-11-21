@@ -5,6 +5,7 @@
 🖥️ Workflow Overview
 
 **Data Ingestion & Cleaning (R Script)**
+
 -Load raw BOLD occurrence data for the three mosquito species:
 
 -Aedes aegypti: aedesaegypti.tsv
@@ -16,11 +17,13 @@
 -Standardize column names, filter for species of interest, and remove records missing country-level information.
 
 **Species Distribution Mapping**
+
 -Summarize presence by country and create separate maps for each species using ggplot2 and rnaturalearth shapefiles.
 
 -Combine datasets to calculate species richness per country (number of vector species present).
 
 **Climate Integration**
+
 -Load climate raster data (WorldClim v2.1) for monthly temperature and precipitation:
 
  -Temperature data
