@@ -58,7 +58,7 @@ BOLD Species Distribution Data
 Source: https://boldsystems.org/
 
 Climate Dataset:
-WorldClim v2.1 — Temperature & Precipitation
+WorldClim v2.1, Temperature & Precipitation
 Source: https://www.worldclim.org/data/worldclim21.html
 
 **Processed / Generated Files**
